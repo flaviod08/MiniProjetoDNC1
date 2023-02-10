@@ -1,4 +1,4 @@
-MiniProjetoDNC1
+DNC
 
 O objetivo do projeto é gerar insight para uma empresa do ramo imobiliário que deseja saber quais os 5 imóveis  melhores e os 5 piores imóveis para se investir no Condado de County, nos Estados Unidos e o porquê e quais os 5 você não recomendaria o investimento de jeito nenhum. 
 

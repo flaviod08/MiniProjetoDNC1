@@ -2,7 +2,7 @@ DNC
 
 O objetivo do projeto é gerar insight para uma empresa do ramo imobiliário que deseja saber quais os 5 imóveis  melhores e os 5 piores imóveis para se investir no Condado de County, nos Estados Unidos e o porquê e quais os 5 você não recomendaria o investimento de jeito nenhum. 
 
-Esse projeto foi desenvolvido pelo grupo22 duranto o DataExpert 4 no ano de 2022.
+Esse projeto foi desenvolvido durante o curso de formação em dados da DNC.
 
 Link dataset https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
 
